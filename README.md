@@ -19,7 +19,11 @@ Esta é uma aplicação simples de Lista de Tarefas desenvolvida com HTML, CSS e
 3. Para remover uma tarefa da lista, clique no botão "X" ao lado da tarefa desejada.
 4. Para limpar toda a lista de tarefas, clique no botão "Limpar Lista".
 
-### Tecnologias Utilizadas
+## Acesse Aqui
+
+<a href="https://gahas2004.github.io/To-do-List/" target="_blank">Lista de Tarefa </a>
+
+## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
